@@ -1,9 +1,10 @@
 Name：Eric Gu, Email:ergu@ucsd.edu
+
 B01 GenAI for Good (Mentor: Ali Arsanjani)
 
 **Question 1: What is the main focus of your project?**
 
-The main focus of the project is to detect misinformation/disinformation of an news article using a hybrid model with both predictive AI and Google generative AI. We hope that our model can achieve an accurate veraicty score, helping readers to access true information
+The main focus of the project is to detect misinformation/disinformation of an news article using a hybrid model with both predictive AI and Google generative AI. We hope that our model can achieve an accurate veraicty score, helping readers to access true information.
 
 **Question 2: What methods do you plan to use?**
 
